@@ -1,0 +1,14 @@
+Package: psimtools
+Type: Package
+Title: Tools for Pension Simulation
+Version: 0.1.0
+Author: Yimeng Yin
+Maintainer: Yimeng Yin <yyin@albany.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 1.0.4.6)
+LinkingTo: Rcpp
+RoxygenNote: 7.1.0
